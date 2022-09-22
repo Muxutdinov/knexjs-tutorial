@@ -9,7 +9,7 @@ module.exports = {
     connection: {
       database: "knexjs-tutorial",
       user: "postgres",
-      password: "jm240701",
+      password: "Big240701",
     },
     pool: {
       min: 2,
